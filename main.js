@@ -76,6 +76,6 @@ function addPaddingToQRCode(originalCanvas, padding) {
 // Menggunakan Tippy.js untuk membuat tooltip pada elemen dengan ID "#About"
 tippy('#About', {
   arrow: true, // Menampilkan panah pada tooltip
-  content: 'Created By ekizr', // Konten teks dari tooltip
+  content: 'Created By Marwan Wisnu', // Konten teks dari tooltip
   animation: 'fade', // Animasi yang digunakan untuk menampilkan tooltip
 });
